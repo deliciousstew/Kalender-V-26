@@ -1,0 +1,1009 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hff-kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:HFF V/2026 (alle)
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:f77ffa93f06882e1f490@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261012T093000
+DTEND;TZID=Europe/Berlin:20261012T170000
+SUMMARY:Film- und Fernsehanalyse
+LOCATION:2.01: Seminarraum 1
+DESCRIPTION:Dozent/in: Krützen\nStatus: Pflicht\nAbteilung: Abteilung I - 
+ Medienwissenschaft\nhttp://ecampus.hff-muc.de/campus/all/event.asp?objggui
+ d=NEW&from=&gguid=0xEF1A87E8D641470B9981A140DC5471C6
+END:VEVENT
+BEGIN:VEVENT
+UID:825dbc5a0c2929c1aebd@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261013T093000
+DTEND;TZID=Europe/Berlin:20261013T170000
+SUMMARY:Film- und Fernsehanalyse
+LOCATION:2.01: Seminarraum 1
+DESCRIPTION:Dozent/in: Krützen\nStatus: Pflicht\nAbteilung: Abteilung I - 
+ Medienwissenschaft\nhttp://ecampus.hff-muc.de/campus/all/event.asp?objggui
+ d=NEW&from=&gguid=0xEF1A87E8D641470B9981A140DC5471C6
+END:VEVENT
+BEGIN:VEVENT
+UID:8f0e8d4da4c2b1df509b@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261014T093000
+DTEND;TZID=Europe/Berlin:20261014T170000
+SUMMARY:Film- und Fernsehanalyse
+LOCATION:2.01: Seminarraum 1
+DESCRIPTION:Dozent/in: Krützen\nStatus: Pflicht\nAbteilung: Abteilung I - 
+ Medienwissenschaft\nhttp://ecampus.hff-muc.de/campus/all/event.asp?objggui
+ d=NEW&from=&gguid=0xEF1A87E8D641470B9981A140DC5471C6
+END:VEVENT
+BEGIN:VEVENT
+UID:12d8d6a4e5163da3b9ec@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261015T093000
+DTEND;TZID=Europe/Berlin:20261015T170000
+SUMMARY:Film- und Fernsehanalyse
+LOCATION:2.01: Seminarraum 1
+DESCRIPTION:Dozent/in: Krützen\nStatus: Pflicht\nAbteilung: Abteilung I - 
+ Medienwissenschaft\nhttp://ecampus.hff-muc.de/campus/all/event.asp?objggui
+ d=NEW&from=&gguid=0xEF1A87E8D641470B9981A140DC5471C6
+END:VEVENT
+BEGIN:VEVENT
+UID:a8189f1af2687422e140@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261016T093000
+DTEND;TZID=Europe/Berlin:20261016T170000
+SUMMARY:Film- und Fernsehanalyse
+LOCATION:2.01: Seminarraum 1
+DESCRIPTION:Dozent/in: Krützen\nStatus: Pflicht\nAbteilung: Abteilung I - 
+ Medienwissenschaft\nhttp://ecampus.hff-muc.de/campus/all/event.asp?objggui
+ d=NEW&from=&gguid=0xEF1A87E8D641470B9981A140DC5471C6
+END:VEVENT
+BEGIN:VEVENT
+UID:fcd43ae1ae44ca0a2062@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261019T100000
+DTEND;TZID=Europe/Berlin:20261019T170000
+SUMMARY:Filmschau
+LOCATION:E 01: AudimaxX
+DESCRIPTION:Dozent/in: Zehr\, Brass\, von Heinz\, Wackerbarth\, Wilke\, Lie
+ bheit\, Al Kour\nStatus: Pflicht\nAbteilung: Abteilung III - Kino- und Fer
+ nsehfilm\, Abteilung VII - VFX\, Abteilung VII - Kamera\, Abteilung IV - D
+ okumentarfilm und Fernsehpublizistik\, Abteilung V - Produktion und Medien
+ wirtschaft\, Abteilung VI - Drehbuch\nhttp://ecampus.hff-muc.de/campus/all
+ /event.asp?objgguid=NEW&from=&gguid=0x3090562CBDA54BF5B71CB7147DDD465F
+END:VEVENT
+BEGIN:VEVENT
+UID:4fe63ee4707ca0d93750@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261020T100000
+DTEND;TZID=Europe/Berlin:20261020T170000
+SUMMARY:Filmschau
+LOCATION:E 01: AudimaxX
+DESCRIPTION:Dozent/in: Zehr\, Brass\, von Heinz\, Wackerbarth\, Wilke\, Lie
+ bheit\, Al Kour\nStatus: Pflicht\nAbteilung: Abteilung III - Kino- und Fer
+ nsehfilm\, Abteilung VII - VFX\, Abteilung VII - Kamera\, Abteilung IV - D
+ okumentarfilm und Fernsehpublizistik\, Abteilung V - Produktion und Medien
+ wirtschaft\, Abteilung VI - Drehbuch\nhttp://ecampus.hff-muc.de/campus/all
+ /event.asp?objgguid=NEW&from=&gguid=0x3090562CBDA54BF5B71CB7147DDD465F
+END:VEVENT
+BEGIN:VEVENT
+UID:4884d23886141a1aab5b@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261021T093000
+DTEND;TZID=Europe/Berlin:20261021T153000
+SUMMARY:Einführung Green Filming
+LOCATION:E 04: Kino 1
+DESCRIPTION:Dozent/in: Gassmann\nStatus: Pflicht\nAbteilung: Abteilung V - 
+ Produktion und Medienwirtschaft\nhttp://ecampus.hff-muc.de/campus/all/even
+ t.asp?objgguid=NEW&from=&gguid=0x44EF4C50BFC4426EB9584A4ECECEB7CB
+END:VEVENT
+BEGIN:VEVENT
+UID:bfb4ab9e0bc0d53aa625@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261021T173000
+DTEND;TZID=Europe/Berlin:20261021T193000
+SUMMARY:Sprechstunde Buchführung und Steuerrecht (mit Anmeldung)
+LOCATION:Zoom
+DESCRIPTION:Dozent/in: Wolf-Knott\nStatus: Optional\nAbteilung: Abteilung V
+  - Produktion und Medienwirtschaft\nhttp://ecampus.hff-muc.de/campus/all/e
+ vent.asp?objgguid=NEW&from=&gguid=0x75F4F778E07F4BEAAF4A61AB10F0B8AA
+END:VEVENT
+BEGIN:VEVENT
+UID:94d9d0037554df4068c5@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261022T093000
+DTEND;TZID=Europe/Berlin:20261022T170000
+SUMMARY:PERSPEKTIVEN Impulse und Ideen für mehr Diversität
+LOCATION:Kino 1
+DESCRIPTION:Dozent/in: Fuhrmann\nStatus: Pflicht\nhttp://ecampus.hff-muc.de
+ /campus/all/event.asp?objgguid=NEW&from=&gguid=0xA508A86A88DD4D4685E75527F
+ 743768C
+END:VEVENT
+BEGIN:VEVENT
+UID:f94f32df0bc31be0a4ca@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261023T093000
+DTEND;TZID=Europe/Berlin:20261023T170000
+SUMMARY:PERSPEKTIVEN Impulse und Ideen für mehr Diversität
+LOCATION:Kino 1
+DESCRIPTION:Dozent/in: Fuhrmann\nStatus: Pflicht\nhttp://ecampus.hff-muc.de
+ /campus/all/event.asp?objgguid=NEW&from=&gguid=0xA508A86A88DD4D4685E75527F
+ 743768C
+END:VEVENT
+BEGIN:VEVENT
+UID:446e80ca48337291ed29@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261026T090000
+DTEND;TZID=Europe/Berlin:20261026T170000
+SUMMARY:PK I: Hüttenseminar
+LOCATION:Egling
+DESCRIPTION:Dozent/in: Fliess\, Mehner\nStatus: Pflicht\nAbteilung: Abteilu
+ ng V - Produktion und Medienwirtschaft\nhttp://ecampus.hff-muc.de/campus/a
+ ll/event.asp?objgguid=NEW&from=&gguid=0x7100D0CA6FA24725BB359D7EF8190410
+END:VEVENT
+BEGIN:VEVENT
+UID:efcb91fc5918d13de210@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261027T090000
+DTEND;TZID=Europe/Berlin:20261027T170000
+SUMMARY:PK I: Hüttenseminar
+LOCATION:Egling
+DESCRIPTION:Dozent/in: Fliess\, Mehner\nStatus: Pflicht\nAbteilung: Abteilu
+ ng V - Produktion und Medienwirtschaft\nhttp://ecampus.hff-muc.de/campus/a
+ ll/event.asp?objgguid=NEW&from=&gguid=0x7100D0CA6FA24725BB359D7EF8190410
+END:VEVENT
+BEGIN:VEVENT
+UID:46c4b82122b2ae550edc@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261027T180000
+DTEND;TZID=Europe/Berlin:20261027T200000
+SUMMARY:Juristische Sprechstunde (mit Anmeldung)
+LOCATION:Zoom
+DESCRIPTION:Dozent/in: Heyde\nStatus: Optional\nAbteilung: Abteilung V - Pr
+ oduktion und Medienwirtschaft\nhttp://ecampus.hff-muc.de/campus/all/event.
+ asp?objgguid=NEW&from=&gguid=0xC496C6F2041747BB9CD1D020B89438C3
+END:VEVENT
+BEGIN:VEVENT
+UID:c15b1657c41e0ff7ad85@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261028T090000
+DTEND;TZID=Europe/Berlin:20261028T170000
+SUMMARY:PK I: Hüttenseminar
+LOCATION:Egling
+DESCRIPTION:Dozent/in: Fliess\, Mehner\nStatus: Pflicht\nAbteilung: Abteilu
+ ng V - Produktion und Medienwirtschaft\nhttp://ecampus.hff-muc.de/campus/a
+ ll/event.asp?objgguid=NEW&from=&gguid=0x7100D0CA6FA24725BB359D7EF8190410
+END:VEVENT
+BEGIN:VEVENT
+UID:26ff6e2abf84f11363d5@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261102T093000
+DTEND;TZID=Europe/Berlin:20261102T124500
+SUMMARY:PK I: Einführung Produktion und Verleih
+LOCATION:2.14: Seminarraum 4
+DESCRIPTION:Dozent/in: Moszkowicz\nStatus: Pflicht\nAbteilung: Abteilung V 
+ - Produktion und Medienwirtschaft\nhttp://ecampus.hff-muc.de/campus/all/ev
+ ent.asp?objgguid=NEW&from=&gguid=0x3C14B00B7CC84CB4951FC4B29FDE8994
+END:VEVENT
+BEGIN:VEVENT
+UID:92b99a34f73d803341c0@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261103T093000
+DTEND;TZID=Europe/Berlin:20261103T164500
+SUMMARY:PK I: Dokumentarisches Produzieren
+LOCATION:2.14: Seminarraum 4
+DESCRIPTION:Dozent/in: Fliess\nStatus: Pflicht\nAbteilung: Abteilung IV - D
+ okumentarfilm und Fernsehpublizistik\, Abteilung V - Produktion und Medien
+ wirtschaft\nhttp://ecampus.hff-muc.de/campus/all/event.asp?objgguid=NEW&fr
+ om=&gguid=0xAA1FF729BF614C00B40228C188EA07F7
+END:VEVENT
+BEGIN:VEVENT
+UID:47dac7b9d457c86c0df8@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261104T093000
+DTEND;TZID=Europe/Berlin:20261104T164500
+SUMMARY:PK I: Dokumentarisches Produzieren
+LOCATION:2.14: Seminarraum 4
+DESCRIPTION:Dozent/in: Fliess\nStatus: Pflicht\nAbteilung: Abteilung IV - D
+ okumentarfilm und Fernsehpublizistik\, Abteilung V - Produktion und Medien
+ wirtschaft\nhttp://ecampus.hff-muc.de/campus/all/event.asp?objgguid=NEW&fr
+ om=&gguid=0xAA1FF729BF614C00B40228C188EA07F7
+END:VEVENT
+BEGIN:VEVENT
+UID:0d79d8490664eef5de73@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261105T100000
+DTEND;TZID=Europe/Berlin:20261105T170000
+SUMMARY:Film 01 - Arbeiten im Team
+LOCATION:E 05: Kino 2
+DESCRIPTION:Dozent/in: Spaeth\nStatus: Pflicht\nAbteilung: Abteilung IV - D
+ okumentarfilm und Fernsehpublizistik\, Abteilung V - Produktion und Medien
+ wirtschaft\nhttp://ecampus.hff-muc.de/campus/all/event.asp?objgguid=NEW&fr
+ om=&gguid=0x84A7B9C3692848F7A97210E123D83849
+END:VEVENT
+BEGIN:VEVENT
+UID:022f951a8616cc375807@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261106T100000
+DTEND;TZID=Europe/Berlin:20261106T140000
+SUMMARY:Film 01 - Einführung Film 01
+LOCATION:E 05: Kino 2
+DESCRIPTION:Dozent/in: Brass\nStatus: Pflicht\nAbteilung: Abteilung VII - K
+ amera\, Abteilung IV - Dokumentarfilm und Fernsehpublizistik\, Abteilung V
+  - Produktion und Medienwirtschaft\nhttp://ecampus.hff-muc.de/campus/all/e
+ vent.asp?objgguid=NEW&from=&gguid=0x390EAB76389E445CA2307AF771E39334
+END:VEVENT
+BEGIN:VEVENT
+UID:1f84f51037964c0dfe92@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261106T140000
+DTEND;TZID=Europe/Berlin:20261106T170000
+SUMMARY:Film 01 - Produktionswirtschaft I
+LOCATION:2.14: Seminarraum 4
+DESCRIPTION:Dozent/in: Wöhrl\nStatus: Pflicht\nAbteilung: Abteilung VII - 
+ Kamera\, Abteilung IV - Dokumentarfilm und Fernsehpublizistik\, Abteilung 
+ V - Produktion und Medienwirtschaft\nhttp://ecampus.hff-muc.de/campus/all/
+ event.asp?objgguid=NEW&from=&gguid=0x52CAAA4B4FD1476E947B7C014765BFA8
+END:VEVENT
+BEGIN:VEVENT
+UID:567cfe28585caf217c58@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261109T100000
+DTEND;TZID=Europe/Berlin:20261109T170000
+SUMMARY:Drama 1-3 / Einführung ins dramatische Erzählen
+LOCATION:2.14: Seminarraum 4
+DESCRIPTION:Dozent/in: Schmidbauer\, Pauli\nStatus: Optional\, Pflicht\nAbt
+ eilung: Abteilung III - Kino- und Fernsehfilm\, Abteilung V - Produktion u
+ nd Medienwirtschaft\, Abteilung VI - Drehbuch\nhttp://ecampus.hff-muc.de/c
+ ampus/all/event.asp?objgguid=NEW&from=&gguid=0xB3626DADBCF94CC4BEAE8E2E1E3
+ 36BD9
+END:VEVENT
+BEGIN:VEVENT
+UID:591b908b9df519fbd668@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261110T100000
+DTEND;TZID=Europe/Berlin:20261110T170000
+SUMMARY:Drama 1-3 / Einführung ins dramatische Erzählen
+LOCATION:2.14: Seminarraum 4
+DESCRIPTION:Dozent/in: Schmidbauer\, Pauli\nStatus: Optional\, Pflicht\nAbt
+ eilung: Abteilung III - Kino- und Fernsehfilm\, Abteilung V - Produktion u
+ nd Medienwirtschaft\, Abteilung VI - Drehbuch\nhttp://ecampus.hff-muc.de/c
+ ampus/all/event.asp?objgguid=NEW&from=&gguid=0xB3626DADBCF94CC4BEAE8E2E1E3
+ 36BD9
+END:VEVENT
+BEGIN:VEVENT
+UID:1cdd993511fb02769f51@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261111T100000
+DTEND;TZID=Europe/Berlin:20261111T170000
+SUMMARY:Drama 1-3 / Einführung ins dramatische Erzählen
+LOCATION:2.14: Seminarraum 4
+DESCRIPTION:Dozent/in: Schmidbauer\, Pauli\nStatus: Optional\, Pflicht\nAbt
+ eilung: Abteilung III - Kino- und Fernsehfilm\, Abteilung V - Produktion u
+ nd Medienwirtschaft\, Abteilung VI - Drehbuch\nhttp://ecampus.hff-muc.de/c
+ ampus/all/event.asp?objgguid=NEW&from=&gguid=0xB3626DADBCF94CC4BEAE8E2E1E3
+ 36BD9
+END:VEVENT
+BEGIN:VEVENT
+UID:f8bb2ee0f1da784ece46@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261111T171500
+DTEND;TZID=Europe/Berlin:20261111T203000
+SUMMARY:Jour Fixe Abt. V & Producers Screening
+LOCATION:Seminarraum 4\, Kino Rot
+DESCRIPTION:Dozent/in: Fliess\, Mehner\nStatus: Optional\nAbteilung: Abteil
+ ung V - Produktion und Medienwirtschaft\nhttp://ecampus.hff-muc.de/campus/
+ all/event.asp?objgguid=NEW&from=&gguid=0xE1C597A47E044AABBB24DB2E098212D6
+END:VEVENT
+BEGIN:VEVENT
+UID:daea5e9a027c18990fbe@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261112T100000
+DTEND;TZID=Europe/Berlin:20261112T170000
+SUMMARY:Drama 1-3 / Einführung ins dramatische Erzählen
+LOCATION:2.14: Seminarraum 4
+DESCRIPTION:Dozent/in: Schmidbauer\, Pauli\nStatus: Optional\, Pflicht\nAbt
+ eilung: Abteilung III - Kino- und Fernsehfilm\, Abteilung V - Produktion u
+ nd Medienwirtschaft\, Abteilung VI - Drehbuch\nhttp://ecampus.hff-muc.de/c
+ ampus/all/event.asp?objgguid=NEW&from=&gguid=0xB3626DADBCF94CC4BEAE8E2E1E3
+ 36BD9
+END:VEVENT
+BEGIN:VEVENT
+UID:94e3035f0fd305eb5fd6@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261120T100000
+DTEND;TZID=Europe/Berlin:20261120T150000
+SUMMARY:Film 01 - Auswertung der dokumentarischen Schreibübung
+LOCATION:SR 5\, SR 8\, SR 9\, SR 10\, GR I\, GR IV
+DESCRIPTION:Dozent/in: Fliess\, Zehr\, Brass\, Spaeth\, Wilke\, Liebheit\, 
+ Wertz\nStatus: Pflicht\nAbteilung: Abteilung VII - Kamera\, Abteilung IV -
+  Dokumentarfilm und Fernsehpublizistik\, Abteilung V - Produktion und Medi
+ enwirtschaft\, Bereich IV/1 - Fernsehjournalismus\nhttp://ecampus.hff-muc.
+ de/campus/all/event.asp?objgguid=NEW&from=&gguid=0x65AAA069829448A2B15BCA9
+ 0AA4D0FB4
+END:VEVENT
+BEGIN:VEVENT
+UID:cc433b9612ff68122547@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261123T093000
+DTEND;TZID=Europe/Berlin:20261123T170000
+SUMMARY:Einführung in die Film- und Fernsehgeschichte
+LOCATION:2.01: Seminarraum 1
+DESCRIPTION:Dozent/in: Krützen\nStatus: Pflicht\nAbteilung: Abteilung I - 
+ Medienwissenschaft\nhttp://ecampus.hff-muc.de/campus/all/event.asp?objggui
+ d=NEW&from=&gguid=0x01D019B316B948B49BA3CE57F6D7C3B5
+END:VEVENT
+BEGIN:VEVENT
+UID:b0034953885f26c62d71@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261124T093000
+DTEND;TZID=Europe/Berlin:20261124T173000
+SUMMARY:Vorlesung Film- und Fernsehgeschichte III (1945–1960)
+LOCATION:E 01: AudimaxX
+DESCRIPTION:Dozent/in: Gotto\, Krützen\nStatus: Pflicht\nAbteilung: Abteil
+ ung I - Medienwissenschaft\nhttp://ecampus.hff-muc.de/campus/all/event.asp
+ ?objgguid=NEW&from=&gguid=0xD2BFED7DDE094BC38950854A495A69C5
+END:VEVENT
+BEGIN:VEVENT
+UID:eb951830a148836f6a83@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261125T093000
+DTEND;TZID=Europe/Berlin:20261125T173000
+SUMMARY:Vorlesung Film- und Fernsehgeschichte III (1945–1960)
+LOCATION:E 01: AudimaxX
+DESCRIPTION:Dozent/in: Gotto\, Krützen\nStatus: Pflicht\nAbteilung: Abteil
+ ung I - Medienwissenschaft\nhttp://ecampus.hff-muc.de/campus/all/event.asp
+ ?objgguid=NEW&from=&gguid=0xD2BFED7DDE094BC38950854A495A69C5
+END:VEVENT
+BEGIN:VEVENT
+UID:23f316a7fe68926feaf1@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261125T173000
+DTEND;TZID=Europe/Berlin:20261125T193000
+SUMMARY:Sprechstunde Buchführung und Steuerrecht (mit Anmeldung)
+LOCATION:Zoom
+DESCRIPTION:Dozent/in: Wolf-Knott\nStatus: Optional\nAbteilung: Abteilung V
+  - Produktion und Medienwirtschaft\nhttp://ecampus.hff-muc.de/campus/all/e
+ vent.asp?objgguid=NEW&from=&gguid=0x75F4F778E07F4BEAAF4A61AB10F0B8AA
+END:VEVENT
+BEGIN:VEVENT
+UID:b5fea960cb9b89bd3739@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261126T093000
+DTEND;TZID=Europe/Berlin:20261126T173000
+SUMMARY:Vorlesung Film- und Fernsehgeschichte III (1945–1960)
+LOCATION:E 01: AudimaxX
+DESCRIPTION:Dozent/in: Gotto\, Krützen\nStatus: Pflicht\nAbteilung: Abteil
+ ung I - Medienwissenschaft\nhttp://ecampus.hff-muc.de/campus/all/event.asp
+ ?objgguid=NEW&from=&gguid=0xD2BFED7DDE094BC38950854A495A69C5
+END:VEVENT
+BEGIN:VEVENT
+UID:9b50d74f91cf5043ff93@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261127T093000
+DTEND;TZID=Europe/Berlin:20261127T173000
+SUMMARY:Vorlesung Film- und Fernsehgeschichte III (1945–1960)
+LOCATION:E 01: AudimaxX
+DESCRIPTION:Dozent/in: Gotto\, Krützen\nStatus: Pflicht\nAbteilung: Abteil
+ ung I - Medienwissenschaft\nhttp://ecampus.hff-muc.de/campus/all/event.asp
+ ?objgguid=NEW&from=&gguid=0xD2BFED7DDE094BC38950854A495A69C5
+END:VEVENT
+BEGIN:VEVENT
+UID:19d790357010790d3dd7@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261130T093000
+DTEND;TZID=Europe/Berlin:20261130T173000
+SUMMARY:Vorlesung Film- und Fernsehgeschichte III (1945–1960)
+LOCATION:E 01: AudimaxX
+DESCRIPTION:Dozent/in: Gotto\, Krützen\nStatus: Pflicht\nAbteilung: Abteil
+ ung I - Medienwissenschaft\nhttp://ecampus.hff-muc.de/campus/all/event.asp
+ ?objgguid=NEW&from=&gguid=0xD2BFED7DDE094BC38950854A495A69C5
+END:VEVENT
+BEGIN:VEVENT
+UID:fdf5df180dd9dc3d8af2@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261201T093000
+DTEND;TZID=Europe/Berlin:20261201T173000
+SUMMARY:Vorlesung Film- und Fernsehgeschichte III (1945–1960)
+LOCATION:E 01: AudimaxX
+DESCRIPTION:Dozent/in: Gotto\, Krützen\nStatus: Pflicht\nAbteilung: Abteil
+ ung I - Medienwissenschaft\nhttp://ecampus.hff-muc.de/campus/all/event.asp
+ ?objgguid=NEW&from=&gguid=0xD2BFED7DDE094BC38950854A495A69C5
+END:VEVENT
+BEGIN:VEVENT
+UID:e65cdd4c97d63f51816d@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261202T093000
+DTEND;TZID=Europe/Berlin:20261202T173000
+SUMMARY:Vorlesung Film- und Fernsehgeschichte III (1945–1960)
+LOCATION:E 01: AudimaxX
+DESCRIPTION:Dozent/in: Gotto\, Krützen\nStatus: Pflicht\nAbteilung: Abteil
+ ung I - Medienwissenschaft\nhttp://ecampus.hff-muc.de/campus/all/event.asp
+ ?objgguid=NEW&from=&gguid=0xD2BFED7DDE094BC38950854A495A69C5
+END:VEVENT
+BEGIN:VEVENT
+UID:9432457d3f92a631ad39@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261202T180000
+DTEND;TZID=Europe/Berlin:20261202T200000
+SUMMARY:Juristische Sprechstunde (mit Anmeldung)
+LOCATION:Zoom
+DESCRIPTION:Dozent/in: Heyde\nStatus: Optional\nAbteilung: Abteilung V - Pr
+ oduktion und Medienwirtschaft\nhttp://ecampus.hff-muc.de/campus/all/event.
+ asp?objgguid=NEW&from=&gguid=0xC496C6F2041747BB9CD1D020B89438C3
+END:VEVENT
+BEGIN:VEVENT
+UID:3c2e97c9e2a28eccb7a7@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261203T093000
+DTEND;TZID=Europe/Berlin:20261203T173000
+SUMMARY:Vorlesung Film- und Fernsehgeschichte III (1945–1960)
+LOCATION:E 01: AudimaxX
+DESCRIPTION:Dozent/in: Gotto\, Krützen\nStatus: Pflicht\nAbteilung: Abteil
+ ung I - Medienwissenschaft\nhttp://ecampus.hff-muc.de/campus/all/event.asp
+ ?objgguid=NEW&from=&gguid=0xD2BFED7DDE094BC38950854A495A69C5
+END:VEVENT
+BEGIN:VEVENT
+UID:7920940272a4ca6f6926@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261207T140000
+DTEND;TZID=Europe/Berlin:20261207T170000
+SUMMARY:Film 01 - Vorstellung der Ideen für Teambildung
+LOCATION:E 05: Kino 2
+DESCRIPTION:Dozent/in: Zehr\, Brass\, Spaeth\nStatus: Pflicht\nAbteilung: A
+ bteilung VII - Kamera\, Abteilung IV - Dokumentarfilm und Fernsehpublizist
+ ik\, Abteilung V - Produktion und Medienwirtschaft\nhttp://ecampus.hff-muc
+ .de/campus/all/event.asp?objgguid=NEW&from=&gguid=0x6985CF6177AC49DA953A5F
+ A3D67B2D6C
+END:VEVENT
+BEGIN:VEVENT
+UID:0a0cc20fff1e05747675@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261208T093000
+DTEND;TZID=Europe/Berlin:20261208T100000
+SUMMARY:WarmUp 1 im Grundlagenseminar Film-und Fernsehtechnik
+LOCATION:E 05: Kino 2
+DESCRIPTION:Dozent/in: Sparenberg\, Müller\nStatus: Pflicht\nAbteilung: Ab
+ teilung II - Technik\nhttp://ecampus.hff-muc.de/campus/all/event.asp?objgg
+ uid=NEW&from=&gguid=0x57832917179F4BAEB5016C0C455CD4A5
+END:VEVENT
+BEGIN:VEVENT
+UID:27711ac9fa8e6e8a43ad@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261208T133000
+DTEND;TZID=Europe/Berlin:20261208T170000
+SUMMARY:Praxis: Kamera Einweisung im Grundlagenseminar Film-und Fernsehtech
+ nik
+LOCATION:TV2\,GRII(4.47)\, SR6 (4.28)\, GRV(4.51)\, GRVII(4.50)
+DESCRIPTION:Dozent/in: Johnston\, Sparenberg\, Kempel\, Müller\, Neumann\n
+ Status: Pflicht\nAbteilung: Abteilung II - Technik\nhttp://ecampus.hff-muc
+ .de/campus/all/event.asp?objgguid=NEW&from=&gguid=0x700F7CD551C34DDF933245
+ 494A8018F0
+END:VEVENT
+BEGIN:VEVENT
+UID:5326082d209c20e0bbdb@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261209T093000
+DTEND;TZID=Europe/Berlin:20261209T124500
+SUMMARY:Film-und Medientechnik I-1 im Grundlagenseminar Film-und Fernsehtec
+ hnik
+LOCATION:2.01: Seminarraum 1
+DESCRIPTION:Dozent/in: Sparenberg\nStatus: Pflicht\nAbteilung: Abteilung II
+  - Technik\nhttp://ecampus.hff-muc.de/campus/all/event.asp?objgguid=NEW&fr
+ om=&gguid=0x08252FECD7654955A9043BF07F8BEF8D
+END:VEVENT
+BEGIN:VEVENT
+UID:da168d9ccc2d62562857@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261209T133000
+DTEND;TZID=Europe/Berlin:20261209T170000
+SUMMARY:Praxis: Belichtungsmessung & Besprechung der Übungen im Grundlagen
+ seminar Film-und Fernsehtechnik
+LOCATION:TV2\,GRII(4.47)\, SR6 (4.28)\, GRV(4.51)\, GRVII(4.50)
+DESCRIPTION:Dozent/in: Johnston\, Sparenberg\, Kempel\, Müller\, Neumann\n
+ Status: Pflicht\nAbteilung: Abteilung II - Technik\nhttp://ecampus.hff-muc
+ .de/campus/all/event.asp?objgguid=NEW&from=&gguid=0x7AB843963B7F4BEA96D8E7
+ 60295AD01B
+END:VEVENT
+BEGIN:VEVENT
+UID:919abe137a8b5d0ab983@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261210T093000
+DTEND;TZID=Europe/Berlin:20261210T100000
+SUMMARY:WarmUp 2 im Grundlagenseminar Film-und Fernsehtechnik
+LOCATION:2.01: Seminarraum 1
+DESCRIPTION:Dozent/in: Müller\nStatus: Pflicht\nAbteilung: Abteilung II - 
+ Technik\nhttp://ecampus.hff-muc.de/campus/all/event.asp?objgguid=NEW&from=
+ &gguid=0xFD56482CD2D64EAEBA39113F9376120F
+END:VEVENT
+BEGIN:VEVENT
+UID:316fd0b5fc8c52325f63@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261210T133000
+DTEND;TZID=Europe/Berlin:20261210T173000
+SUMMARY:Praxisübungen (I) im Grundlagenseminar Film-und Fernsehtechnik
+LOCATION:TV2\,GRII(4.47)\, SR6 (4.28)\, GRV(4.51)\, GRVII(4.50)
+DESCRIPTION:Dozent/in: Johnston\, Sparenberg\, Kempel\, Müller\, Neumann\n
+ Status: Pflicht\nAbteilung: Abteilung II - Technik\nhttp://ecampus.hff-muc
+ .de/campus/all/event.asp?objgguid=NEW&from=&gguid=0xCD3E70AD516A4383A6A9BD
+ B0DD348911
+END:VEVENT
+BEGIN:VEVENT
+UID:eacac9fa3fab3bf0d328@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261211T133000
+DTEND;TZID=Europe/Berlin:20261211T173000
+SUMMARY:Praxisübungen (I) im Grundlagenseminar Film-und Fernsehtechnik
+LOCATION:TV2\,GRII(4.47)\, SR6 (4.28)\, GRV(4.51)\, GRVII(4.50)
+DESCRIPTION:Dozent/in: Johnston\, Sparenberg\, Kempel\, Müller\, Neumann\n
+ Status: Pflicht\nAbteilung: Abteilung II - Technik\nhttp://ecampus.hff-muc
+ .de/campus/all/event.asp?objgguid=NEW&from=&gguid=0xCD3E70AD516A4383A6A9BD
+ B0DD348911
+END:VEVENT
+BEGIN:VEVENT
+UID:e6bdc8475823205d4816@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261214T093000
+DTEND;TZID=Europe/Berlin:20261214T094500
+SUMMARY:WarmUp 3 im Grundlagenseminar Film-und Fernsehtechnik
+LOCATION:E 04: Kino 1
+DESCRIPTION:Dozent/in: Müller\nStatus: Pflicht\nAbteilung: Abteilung II - 
+ Technik\nhttp://ecampus.hff-muc.de/campus/all/event.asp?objgguid=NEW&from=
+ &gguid=0x05C10D3FD82A4356AE1CCCCCDDBD1DFB
+END:VEVENT
+BEGIN:VEVENT
+UID:63452f48f4c3658f10a5@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261214T094500
+DTEND;TZID=Europe/Berlin:20261214T124500
+SUMMARY:Film-und Medientechnik I-4 im Grundlagenseminar Film-und Fernsehtec
+ hnik
+LOCATION:TV2\,GRII(4.47)\, SR6 (4.28)\, GRV(4.51)\, GRVII(4.50)
+DESCRIPTION:Dozent/in: Sparenberg\nStatus: Pflicht\nAbteilung: Abteilung II
+  - Technik\nhttp://ecampus.hff-muc.de/campus/all/event.asp?objgguid=NEW&fr
+ om=&gguid=0x10773771ABFC46948400A258B7A8A00C
+END:VEVENT
+BEGIN:VEVENT
+UID:b1667b052b754f9ad302@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261214T134500
+DTEND;TZID=Europe/Berlin:20261214T173000
+SUMMARY:Praxisübungen (II) mit Ton\, Einweisung Sound Device im Grundlagen
+ seminar Film-und Fernsehtechnik (Einteilung in Kleingruppen)
+LOCATION:TV2\,GRII(4.47)\, SR6 (4.28)\, GRV(4.51)\, GRVII(4.50)
+DESCRIPTION:Dozent/in: Johnston\, Sparenberg\, Kempel\, Lupfer\, Parisotto\
+ , Kainz\, Müller\, Neumann\, Mottl\nStatus: Pflicht\nAbteilung: Abteilung
+  II - Technik\nhttp://ecampus.hff-muc.de/campus/all/event.asp?objgguid=NEW
+ &from=&gguid=0x443CA7C28C9B4FFABD63856AD556158B
+END:VEVENT
+BEGIN:VEVENT
+UID:129c9b9b0abb1b6bd476@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261215T093000
+DTEND;TZID=Europe/Berlin:20261215T124500
+SUMMARY:Film-und Medientechnik (Set-Ton)  I-5 im Grundlagenseminar Film-und
+  Fernsehtechnik
+LOCATION:E 04: Kino 1
+DESCRIPTION:Dozent/in: Mottl\nStatus: Pflicht\nAbteilung: Abteilung II - Te
+ chnik\nhttp://ecampus.hff-muc.de/campus/all/event.asp?objgguid=NEW&from=&g
+ guid=0xD6BE2094D9CC44E586E9E3B440864DDE
+END:VEVENT
+BEGIN:VEVENT
+UID:9e13eb90734cfaa40c29@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261215T133000
+DTEND;TZID=Europe/Berlin:20261215T173000
+SUMMARY:Praxisübungen (II) mit Ton\, Einweisung Sound Device im Grundlagen
+ seminar Film-und Fernsehtechnik (Einteilung in Kleingruppen)
+LOCATION:TV2\,GRII(4.47)\, SR6 (4.28)\, GRV(4.51)\, GRVII(4.50)
+DESCRIPTION:Dozent/in: Johnston\, Sparenberg\, Kempel\, Lupfer\, Parisotto\
+ , Kainz\, Müller\, Neumann\, Mottl\nStatus: Pflicht\nAbteilung: Abteilung
+  II - Technik\nhttp://ecampus.hff-muc.de/campus/all/event.asp?objgguid=NEW
+ &from=&gguid=0x443CA7C28C9B4FFABD63856AD556158B
+END:VEVENT
+BEGIN:VEVENT
+UID:b46fd3ead37b136972c5@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261216T093000
+DTEND;TZID=Europe/Berlin:20261216T124500
+SUMMARY:Praxisübungen (II) mit Ton\, Einweisung Sound Device im Grundlagen
+ seminar Film-und Fernsehtechnik (Einteilung in Kleingruppen)
+LOCATION:TV2\,GRII(4.47)\, SR6 (4.28)\, GRV(4.51)\, GRVII(4.50)
+DESCRIPTION:Dozent/in: Johnston\, Sparenberg\, Kempel\, Lupfer\, Parisotto\
+ , Kainz\, Müller\, Neumann\, Mottl\nStatus: Pflicht\nAbteilung: Abteilung
+  II - Technik\nhttp://ecampus.hff-muc.de/campus/all/event.asp?objgguid=NEW
+ &from=&gguid=0x443CA7C28C9B4FFABD63856AD556158B
+END:VEVENT
+BEGIN:VEVENT
+UID:b80d15216787ffc7c91b@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261217T133000
+DTEND;TZID=Europe/Berlin:20261217T173000
+SUMMARY:Praxisübungen III (Film-Übung) im Grundlagenseminar Film-und Fern
+ sehtechnik
+LOCATION:TV2\,GRII(4.47)\, SR6 (4.28)\, GRV(4.51)\, GRVII(4.50)
+DESCRIPTION:Dozent/in: Johnston\, Sparenberg\, Kempel\, Müller\, Neumann\n
+ Status: Pflicht\nAbteilung: Abteilung II - Technik\nhttp://ecampus.hff-muc
+ .de/campus/all/event.asp?objgguid=NEW&from=&gguid=0x2C6E5AA2BBC04EF9AFC3F5
+ 10392CD71F
+END:VEVENT
+BEGIN:VEVENT
+UID:c3929e86c32a2bb553b6@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261218T093000
+DTEND;TZID=Europe/Berlin:20261218T120000
+SUMMARY:Einführung VFX und KI und Case study VFX im Grundlagenseminar Film
+ -und Fernsehtechnik
+LOCATION:E 05: Kino 2
+DESCRIPTION:Dozent/in: Schopper\, Rothe\, Müller\nStatus: Pflicht\nAbteilu
+ ng: Abteilung II - Technik\nhttp://ecampus.hff-muc.de/campus/all/event.asp
+ ?objgguid=NEW&from=&gguid=0x4716AE5EA0884A1CBC27FC4909ECCCBD
+END:VEVENT
+BEGIN:VEVENT
+UID:dcec46f11e5bdb330687@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20270111T093000
+DTEND;TZID=Europe/Berlin:20270111T100000
+SUMMARY:WarmUp 4 im Grundlagenseminar Film-und Fernsehtechnik
+LOCATION:2.01: Seminarraum 1
+DESCRIPTION:Dozent/in: Müller\nStatus: Pflicht\nAbteilung: Abteilung II - 
+ Technik\nhttp://ecampus.hff-muc.de/campus/all/event.asp?objgguid=NEW&from=
+ &gguid=0x8CAEF196CEF641FE9A1FE41CC09D68D2
+END:VEVENT
+BEGIN:VEVENT
+UID:1ccf1a0bd7d915b0757d@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20270111T100000
+DTEND;TZID=Europe/Berlin:20270111T124500
+SUMMARY:Kleine Codec Kunde im Grundlagenseminar Film-und Fernsehtechnik
+LOCATION:2.01: Seminarraum 1
+DESCRIPTION:Dozent/in: Kempel\nStatus: Pflicht\nAbteilung: Abteilung II - T
+ echnik\nhttp://ecampus.hff-muc.de/campus/all/event.asp?objgguid=NEW&from=&
+ gguid=0xCFDB4A5245984A46BED26B2FDC309F66
+END:VEVENT
+BEGIN:VEVENT
+UID:89004ba553dcda0b054e@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20270111T133000
+DTEND;TZID=Europe/Berlin:20270111T153000
+SUMMARY:Einführung in die Schnitttechnik im Grundlagenseminar Film-und Fer
+ nsehtechnik
+LOCATION:E 05: Kino 2
+DESCRIPTION:Dozent/in: Müller\, Neumann\nStatus: Pflicht\nAbteilung: Abtei
+ lung II - Technik\nhttp://ecampus.hff-muc.de/campus/all/event.asp?objgguid
+ =NEW&from=&gguid=0xAC161D504A41423EA839B9244FBEDF30
+END:VEVENT
+BEGIN:VEVENT
+UID:350d75a566b44e3eed38@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20270111T153000
+DTEND;TZID=Europe/Berlin:20270111T163000
+SUMMARY:Einführung Jackie & Billie im Grundlagenseminar Film-und Fernsehte
+ chnik
+LOCATION:E 05: Kino 2
+DESCRIPTION:Dozent/in: Müller\nStatus: Pflicht\nAbteilung: Abteilung II - 
+ Technik\nhttp://ecampus.hff-muc.de/campus/all/event.asp?objgguid=NEW&from=
+ &gguid=0xBAF8DFC2415D4F589D80EA408E51C0EF
+END:VEVENT
+BEGIN:VEVENT
+UID:084fc5100340e927df9a@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20270112T093000
+DTEND;TZID=Europe/Berlin:20270112T133000
+SUMMARY:Workflowkunde  im Grundlagenseminar Film-und Fernsehtechnik (Gruppe
+ neinteilung)
+LOCATION:2.01: Seminarraum 1
+DESCRIPTION:Dozent/in: Kempel\nStatus: Pflicht\nAbteilung: Abteilung II - T
+ echnik\nhttp://ecampus.hff-muc.de/campus/all/event.asp?objgguid=NEW&from=&
+ gguid=0x0C5E4870A3AE427B8576CE11CBD3CB8A
+END:VEVENT
+BEGIN:VEVENT
+UID:fa3fa35bb31c20e8a1ab@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20270112T143000
+DTEND;TZID=Europe/Berlin:20270112T160000
+SUMMARY:Fragestunde zur Theorieprüfung  im Grundlagenseminar Film-und Fern
+ sehtechnik
+LOCATION:2.01: Seminarraum 1
+DESCRIPTION:Dozent/in: Sparenberg\, Kempel\nStatus: Pflicht\nAbteilung: Abt
+ eilung II - Technik\nhttp://ecampus.hff-muc.de/campus/all/event.asp?objggu
+ id=NEW&from=&gguid=0xE25AB95D5F0646E1B2BAD7CB140424C1
+END:VEVENT
+BEGIN:VEVENT
+UID:50d9f5f368630561f231@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20270113T180000
+DTEND;TZID=Europe/Berlin:20270113T200000
+SUMMARY:Juristische Sprechstunde (mit Anmeldung)
+LOCATION:Zoom
+DESCRIPTION:Dozent/in: Heyde\nStatus: Optional\nAbteilung: Abteilung V - Pr
+ oduktion und Medienwirtschaft\nhttp://ecampus.hff-muc.de/campus/all/event.
+ asp?objgguid=NEW&from=&gguid=0xC496C6F2041747BB9CD1D020B89438C3
+END:VEVENT
+BEGIN:VEVENT
+UID:1036b84d805bddba3d57@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20270114T090000
+DTEND;TZID=Europe/Berlin:20270114T173000
+SUMMARY:Jackie und Billie Dreh im Grundlagenseminar Film-und Fernsehtechnik
+LOCATION:TV1 (E.28)\, Film2 (E.29)\, TV2 (E.26)\, Graues Haus
+DESCRIPTION:Dozent/in: Müller\, Neumann\nStatus: Pflicht\nAbteilung: Abtei
+ lung II - Technik\nhttp://ecampus.hff-muc.de/campus/all/event.asp?objgguid
+ =NEW&from=&gguid=0x97A6415CFE0C4B3792CE14A6798AAFDB
+END:VEVENT
+BEGIN:VEVENT
+UID:5ca68fa57108d9ac6b22@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20270115T090000
+DTEND;TZID=Europe/Berlin:20270115T173000
+SUMMARY:Jackie und Billie Dreh im Grundlagenseminar Film-und Fernsehtechnik
+LOCATION:TV1 (E.28)\, Film2 (E.29)\, TV2 (E.26)\, Graues Haus
+DESCRIPTION:Dozent/in: Müller\, Neumann\nStatus: Pflicht\nAbteilung: Abtei
+ lung II - Technik\nhttp://ecampus.hff-muc.de/campus/all/event.asp?objgguid
+ =NEW&from=&gguid=0x97A6415CFE0C4B3792CE14A6798AAFDB
+END:VEVENT
+BEGIN:VEVENT
+UID:654677024004b28f3088@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20270118T093000
+DTEND;TZID=Europe/Berlin:20270118T170000
+SUMMARY:Schnitt (Gruppeneinteilung) im Grundlagenseminar Film-und Fernsehte
+ chnik
+LOCATION:3.22: Computer Schulungsraum\, 3.26: Gruppenschnittraum\, Multimed
+ iaraum (3:20)
+DESCRIPTION:Dozent/in: Schorr\, Tzafrir\, Müller\nStatus: Pflicht\nAbteilu
+ ng: Abteilung II - Technik\nhttp://ecampus.hff-muc.de/campus/all/event.asp
+ ?objgguid=NEW&from=&gguid=0x48DD370E784E44C58C623B23C205E34F
+END:VEVENT
+BEGIN:VEVENT
+UID:a20d3045614ae8190a88@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20270118T170000
+DTEND;TZID=Europe/Berlin:20270118T183000
+SUMMARY:Fragestunde zur Theorieprüfung  im Grundlagenseminar Film-und Fern
+ sehtechnik
+LOCATION:2.01: Seminarraum 1
+DESCRIPTION:Dozent/in: Sparenberg\, Kempel\nStatus: Pflicht\nAbteilung: Abt
+ eilung II - Technik\nhttp://ecampus.hff-muc.de/campus/all/event.asp?objggu
+ id=NEW&from=&gguid=0xE25AB95D5F0646E1B2BAD7CB140424C1
+END:VEVENT
+BEGIN:VEVENT
+UID:d64632d2b5fed74a7278@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20270119T093000
+DTEND;TZID=Europe/Berlin:20270119T170000
+SUMMARY:Schnitt (Gruppeneinteilung) im Grundlagenseminar Film-und Fernsehte
+ chnik
+LOCATION:3.22: Computer Schulungsraum\, 3.26: Gruppenschnittraum\, Multimed
+ iaraum (3:20)
+DESCRIPTION:Dozent/in: Schorr\, Tzafrir\, Müller\nStatus: Pflicht\nAbteilu
+ ng: Abteilung II - Technik\nhttp://ecampus.hff-muc.de/campus/all/event.asp
+ ?objgguid=NEW&from=&gguid=0x48DD370E784E44C58C623B23C205E34F
+END:VEVENT
+BEGIN:VEVENT
+UID:9ffd2b2888f7ebccff18@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20270120T093000
+DTEND;TZID=Europe/Berlin:20270120T170000
+SUMMARY:Schnitt (Gruppeneinteilung) im Grundlagenseminar Film-und Fernsehte
+ chnik
+LOCATION:3.22: Computer Schulungsraum\, 3.26: Gruppenschnittraum\, Multimed
+ iaraum (3:20)
+DESCRIPTION:Dozent/in: Schorr\, Tzafrir\, Müller\nStatus: Pflicht\nAbteilu
+ ng: Abteilung II - Technik\nhttp://ecampus.hff-muc.de/campus/all/event.asp
+ ?objgguid=NEW&from=&gguid=0x48DD370E784E44C58C623B23C205E34F
+END:VEVENT
+BEGIN:VEVENT
+UID:1cb107aadd75b174307a@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20270120T171500
+DTEND;TZID=Europe/Berlin:20270120T203000
+SUMMARY:Jour Fixe Abt. V & Producers Screening
+LOCATION:Seminarraum 3\, Kino Blau
+DESCRIPTION:Dozent/in: Fliess\, Mehner\nStatus: Optional\nAbteilung: Abteil
+ ung V - Produktion und Medienwirtschaft\nhttp://ecampus.hff-muc.de/campus/
+ all/event.asp?objgguid=NEW&from=&gguid=0xE1C597A47E044AABBB24DB2E098212D6
+END:VEVENT
+BEGIN:VEVENT
+UID:f4b0b5110362e18d085e@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20270120T173000
+DTEND;TZID=Europe/Berlin:20270120T193000
+SUMMARY:Sprechstunde Buchführung und Steuerrecht (mit Anmeldung)
+LOCATION:Zoom
+DESCRIPTION:Dozent/in: Wolf-Knott\nStatus: Optional\nAbteilung: Abteilung V
+  - Produktion und Medienwirtschaft\nhttp://ecampus.hff-muc.de/campus/all/e
+ vent.asp?objgguid=NEW&from=&gguid=0x75F4F778E07F4BEAAF4A61AB10F0B8AA
+END:VEVENT
+BEGIN:VEVENT
+UID:72a7637f66ca9bef2ea5@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20270121T100000
+DTEND;TZID=Europe/Berlin:20270121T160000
+SUMMARY:Praktische Prüfung im Grundlagenseminar Film-und Fernsehtechnik
+LOCATION:Film1 (E.31)\, Film2 (E.29)\, TV1 (E.28)\,
+DESCRIPTION:Dozent/in: Johnston\, Sparenberg\, Kempel\, Müller\, Neumann\n
+ Status: Pflicht\nAbteilung: Abteilung II - Technik\nhttp://ecampus.hff-muc
+ .de/campus/all/event.asp?objgguid=NEW&from=&gguid=0xF98874B6B72C400B91301A
+ 7DA4B10F52
+END:VEVENT
+BEGIN:VEVENT
+UID:ae8d807fc348b9767648@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20270122T093000
+DTEND;TZID=Europe/Berlin:20270122T120000
+SUMMARY:Schriftliche Prüfung Grundlagenseminar Film- und Fernsehtechnik
+LOCATION:2.01: Seminarraum 1
+DESCRIPTION:Dozent/in: Sparenberg\nStatus: Pflicht\nAbteilung: Abteilung II
+  - Technik\nhttp://ecampus.hff-muc.de/campus/all/event.asp?objgguid=NEW&fr
+ om=&gguid=0xA0098F66B44A415DBD8691309E338768
+END:VEVENT
+BEGIN:VEVENT
+UID:3ead6dd42700f81dda73@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20270125T093000
+DTEND;TZID=Europe/Berlin:20270125T164500
+SUMMARY:RK I: Grundlagen Recht
+LOCATION:4.08: Seminarraum 5
+DESCRIPTION:Dozent/in: Huber\nStatus: Pflicht\nAbteilung: Abteilung V - Pro
+ duktion und Medienwirtschaft\nhttp://ecampus.hff-muc.de/campus/all/event.a
+ sp?objgguid=NEW&from=&gguid=0x2DED9B534062455CA6CB12330C3A31C6
+END:VEVENT
+BEGIN:VEVENT
+UID:de5e73d6f706289ae47e@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20270126T093000
+DTEND;TZID=Europe/Berlin:20270126T164500
+SUMMARY:RK I: Grundlagen Recht
+LOCATION:4.08: Seminarraum 5
+DESCRIPTION:Dozent/in: Huber\nStatus: Pflicht\nAbteilung: Abteilung V - Pro
+ duktion und Medienwirtschaft\nhttp://ecampus.hff-muc.de/campus/all/event.a
+ sp?objgguid=NEW&from=&gguid=0x2DED9B534062455CA6CB12330C3A31C6
+END:VEVENT
+BEGIN:VEVENT
+UID:cdded7fe2f64e56698a9@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20270127T093000
+DTEND;TZID=Europe/Berlin:20270127T164500
+SUMMARY:PK I: Kalkulation für die HFF
+LOCATION:4.08: Seminarraum 5
+DESCRIPTION:Dozent/in: Brummer\, Zitzer\nStatus: Pflicht\nAbteilung: Abteil
+ ung V - Produktion und Medienwirtschaft\nhttp://ecampus.hff-muc.de/campus/
+ all/event.asp?objgguid=NEW&from=&gguid=0x2969539A2C8746F3A59EDEA2623D5899
+END:VEVENT
+BEGIN:VEVENT
+UID:1bc6dc2baad7fd73c14b@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20270128T093000
+DTEND;TZID=Europe/Berlin:20270128T164500
+SUMMARY:PK I: Kalkulation für die HFF
+LOCATION:4.08: Seminarraum 5
+DESCRIPTION:Dozent/in: Brummer\, Zitzer\nStatus: Pflicht\nAbteilung: Abteil
+ ung V - Produktion und Medienwirtschaft\nhttp://ecampus.hff-muc.de/campus/
+ all/event.asp?objgguid=NEW&from=&gguid=0x2969539A2C8746F3A59EDEA2623D5899
+END:VEVENT
+BEGIN:VEVENT
+UID:7cfd15b2da5a7d390765@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20270201T093000
+DTEND;TZID=Europe/Berlin:20270201T164500
+SUMMARY:MW I: Design Sprint - Einführung in die Medienwirtschaft
+LOCATION:4.08: Seminarraum 5
+DESCRIPTION:Dozent/in: Steierer\nStatus: Pflicht\nAbteilung: Abteilung V - 
+ Produktion und Medienwirtschaft\nhttp://ecampus.hff-muc.de/campus/all/even
+ t.asp?objgguid=NEW&from=&gguid=0xE44132F923A8486FA2BFA7A138394262
+END:VEVENT
+BEGIN:VEVENT
+UID:03702d1ff406d7fb5e48@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20270202T093000
+DTEND;TZID=Europe/Berlin:20270202T164500
+SUMMARY:MW I: Design Sprint - Einführung in die Medienwirtschaft
+LOCATION:4.08: Seminarraum 5
+DESCRIPTION:Dozent/in: Steierer\nStatus: Pflicht\nAbteilung: Abteilung V - 
+ Produktion und Medienwirtschaft\nhttp://ecampus.hff-muc.de/campus/all/even
+ t.asp?objgguid=NEW&from=&gguid=0xE44132F923A8486FA2BFA7A138394262
+END:VEVENT
+BEGIN:VEVENT
+UID:70cd811c7cc7a060a4be@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20270203T093000
+DTEND;TZID=Europe/Berlin:20270203T164500
+SUMMARY:MW I: Design Sprint - Einführung in die Medienwirtschaft
+LOCATION:4.08: Seminarraum 5
+DESCRIPTION:Dozent/in: Steierer\nStatus: Pflicht\nAbteilung: Abteilung V - 
+ Produktion und Medienwirtschaft\nhttp://ecampus.hff-muc.de/campus/all/even
+ t.asp?objgguid=NEW&from=&gguid=0xE44132F923A8486FA2BFA7A138394262
+END:VEVENT
+BEGIN:VEVENT
+UID:31334b818396e5301736@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20270209T100000
+DTEND;TZID=Europe/Berlin:20270209T140000
+SUMMARY:Film 01 - Projektbezogenes Produktionscoaching (mit Anmeldung)
+LOCATION:Büro Ingo Fliess / Corinna Mehner
+DESCRIPTION:Dozent/in: Fliess\nStatus: Optional\nAbteilung: Abteilung V - P
+ roduktion und Medienwirtschaft\nhttp://ecampus.hff-muc.de/campus/all/event
+ .asp?objgguid=NEW&from=&gguid=0x4D9613746E4343DBBCD1AC27023526A6
+END:VEVENT
+BEGIN:VEVENT
+UID:f2222a1ae89a34623f7f@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20270210T100000
+DTEND;TZID=Europe/Berlin:20270210T130000
+SUMMARY:Film 01 - Rechtetutorium
+LOCATION:2.14: Seminarraum 4
+DESCRIPTION:Dozent/in: Huber\nStatus: Optional\, Pflicht\nAbteilung: Abteil
+ ung VII - Kamera\, Abteilung IV - Dokumentarfilm und Fernsehpublizistik\, 
+ Abteilung V - Produktion und Medienwirtschaft\nhttp://ecampus.hff-muc.de/c
+ ampus/all/event.asp?objgguid=NEW&from=&gguid=0x2D771BE22F9A4BAFBB082773A80
+ 69E96
+END:VEVENT
+BEGIN:VEVENT
+UID:fa91fbf3daeb041f34a8@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20270210T140000
+DTEND;TZID=Europe/Berlin:20270210T170000
+SUMMARY:Film 01 - Produktionswirtschaft II
+LOCATION:2.14: Seminarraum 4
+DESCRIPTION:Dozent/in: Lührig\, Wöhrl\nStatus: Pflicht\nAbteilung: Abteil
+ ung IV - Dokumentarfilm und Fernsehpublizistik\, Abteilung V - Produktion 
+ und Medienwirtschaft\nhttp://ecampus.hff-muc.de/campus/all/event.asp?objgg
+ uid=NEW&from=&gguid=0x85EF60B7528A40EF9E49927C7E6A3298
+END:VEVENT
+BEGIN:VEVENT
+UID:25d84db19fe00d7cc702@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20270211T140000
+DTEND;TZID=Europe/Berlin:20270211T170000
+SUMMARY:Film 01 - Postproduktions Workflow
+LOCATION:2.14: Seminarraum 4
+DESCRIPTION:Dozent/in: Kempel\nStatus: Pflicht\nAbteilung: Abteilung VII - 
+ Kamera\, Abteilung IV - Dokumentarfilm und Fernsehpublizistik\, Abteilung 
+ V - Produktion und Medienwirtschaft\nhttp://ecampus.hff-muc.de/campus/all/
+ event.asp?objgguid=NEW&from=&gguid=0xD1ADCF4A72EF4B2CA6A673449C7C85A1
+END:VEVENT
+BEGIN:VEVENT
+UID:d55445c83035e4278f20@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20270224T180000
+DTEND;TZID=Europe/Berlin:20270224T200000
+SUMMARY:Juristische Sprechstunde (mit Anmeldung)
+LOCATION:Zoom
+DESCRIPTION:Dozent/in: Heyde\nStatus: Optional\nAbteilung: Abteilung V - Pr
+ oduktion und Medienwirtschaft\nhttp://ecampus.hff-muc.de/campus/all/event.
+ asp?objgguid=NEW&from=&gguid=0xC496C6F2041747BB9CD1D020B89438C3
+END:VEVENT
+BEGIN:VEVENT
+UID:7da392c3a088902a3501@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20270225T173000
+DTEND;TZID=Europe/Berlin:20270225T193000
+SUMMARY:Sprechstunde Buchführung und Steuerrecht (mit Anmeldung)
+LOCATION:Zoom
+DESCRIPTION:Dozent/in: Wolf-Knott\nStatus: Optional\nAbteilung: Abteilung V
+  - Produktion und Medienwirtschaft\nhttp://ecampus.hff-muc.de/campus/all/e
+ vent.asp?objgguid=NEW&from=&gguid=0x75F4F778E07F4BEAAF4A61AB10F0B8AA
+END:VEVENT
+END:VCALENDAR
