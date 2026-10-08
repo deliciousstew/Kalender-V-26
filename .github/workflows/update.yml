@@ -25,7 +25,8 @@ jobs:
         run: python update_calendar.py
 
       - name: Statusdatei schreiben
-        run: date -u +"Letzter Lauf: %Y-%m-%d %H:%M UTC" > docs/status.txt
+        run: |
+          date -u +"Letzter Lauf: %Y-%m-%d %H:%M UTC" > docs/status.txt
 
       - name: Änderungen speichern
         run: |
