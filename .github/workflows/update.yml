@@ -24,12 +24,12 @@ jobs:
       - name: ICS-Dateien erzeugen
         run: python update_calendar.py
 
+      - name: Statusdatei schreiben
+        run: date -u +"Letzter Lauf: %Y-%m-%d %H:%M UTC" > docs/status.txt
+
       - name: Änderungen speichern
         run: |
           git config user.name "kalender-bot"
           git config user.email "kalender-bot@users.noreply.github.com"
           git add docs
           git diff --cached --quiet || (git commit -m "Kalender aktualisiert" && git push)
-
-      - name: Statusdatei schreiben
-        run: date -u +"Letzter Lauf: %Y-%m-%d %H:%M UTC" > docs/status.txt
