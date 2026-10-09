@@ -231,11 +231,11 @@ DESCRIPTION:Dozent/in: Fliess\nStatus: Pflicht\nAbteilung: Abteilung IV - D
  om=&gguid=0xAA1FF729BF614C00B40228C188EA07F7
 END:VEVENT
 BEGIN:VEVENT
-UID:0d79d8490664eef5de73@hff-kalender
+UID:8d5b254983edef3c5294@hff-kalender
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20261105T100000
 DTEND;TZID=Europe/Berlin:20261105T170000
-SUMMARY:Film 01 - Arbeiten im Team
+SUMMARY:Film 01 - Ideenskizze und Exposé
 LOCATION:E 05: Kino 2
 DESCRIPTION:Dozent/in: Spaeth\nStatus: Pflicht\nAbteilung: Abteilung IV - D
  okumentarfilm und Fernsehpublizistik\, Abteilung V - Produktion und Medien
