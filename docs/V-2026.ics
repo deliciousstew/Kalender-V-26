@@ -136,9 +136,9 @@ DTSTART;TZID=Europe/Berlin:20261022T093000
 DTEND;TZID=Europe/Berlin:20261022T170000
 SUMMARY:PERSPEKTIVEN Impulse und Ideen für mehr Diversität
 LOCATION:Kino 1
-DESCRIPTION:Dozent/in: Friesewinkel\, Fuhrmann\nStatus: Pflicht\nhttp://eca
- mpus.hff-muc.de/campus/all/event.asp?objgguid=NEW&from=&gguid=0xA508A86A88
- DD4D4685E75527F743768C
+DESCRIPTION:Dozent/in: Friesewinkel\, Fuhrmann\, Turan\nStatus: Pflicht\nht
+ tp://ecampus.hff-muc.de/campus/all/event.asp?objgguid=NEW&from=&gguid=0xA5
+ 08A86A88DD4D4685E75527F743768C
 END:VEVENT
 BEGIN:VEVENT
 UID:f94f32df0bc31be0a4ca@hff-kalender
@@ -147,9 +147,9 @@ DTSTART;TZID=Europe/Berlin:20261023T093000
 DTEND;TZID=Europe/Berlin:20261023T170000
 SUMMARY:PERSPEKTIVEN Impulse und Ideen für mehr Diversität
 LOCATION:Kino 1
-DESCRIPTION:Dozent/in: Friesewinkel\, Fuhrmann\nStatus: Pflicht\nhttp://eca
- mpus.hff-muc.de/campus/all/event.asp?objgguid=NEW&from=&gguid=0xA508A86A88
- DD4D4685E75527F743768C
+DESCRIPTION:Dozent/in: Friesewinkel\, Fuhrmann\, Turan\nStatus: Pflicht\nht
+ tp://ecampus.hff-muc.de/campus/all/event.asp?objgguid=NEW&from=&gguid=0xA5
+ 08A86A88DD4D4685E75527F743768C
 END:VEVENT
 BEGIN:VEVENT
 UID:446e80ca48337291ed29@hff-kalender
@@ -158,9 +158,10 @@ DTSTART;TZID=Europe/Berlin:20261026T090000
 DTEND;TZID=Europe/Berlin:20261026T170000
 SUMMARY:PK I: Hüttenseminar
 LOCATION:Marstall am See
-DESCRIPTION:Dozent/in: Fliess\, Mehner\nStatus: Pflicht\nAbteilung: Abteilu
- ng V - Produktion und Medienwirtschaft\nhttp://ecampus.hff-muc.de/campus/a
- ll/event.asp?objgguid=NEW&from=&gguid=0x7100D0CA6FA24725BB359D7EF8190410
+DESCRIPTION:Dozent/in: Fliess\, Hébert\, Mehner\nStatus: Pflicht\nAbteilun
+ g: Abteilung V - Produktion und Medienwirtschaft\nhttp://ecampus.hff-muc.d
+ e/campus/all/event.asp?objgguid=NEW&from=&gguid=0x7100D0CA6FA24725BB359D7E
+ F8190410
 END:VEVENT
 BEGIN:VEVENT
 UID:efcb91fc5918d13de210@hff-kalender
@@ -169,9 +170,10 @@ DTSTART;TZID=Europe/Berlin:20261027T090000
 DTEND;TZID=Europe/Berlin:20261027T170000
 SUMMARY:PK I: Hüttenseminar
 LOCATION:Marstall am See
-DESCRIPTION:Dozent/in: Fliess\, Mehner\nStatus: Pflicht\nAbteilung: Abteilu
- ng V - Produktion und Medienwirtschaft\nhttp://ecampus.hff-muc.de/campus/a
- ll/event.asp?objgguid=NEW&from=&gguid=0x7100D0CA6FA24725BB359D7EF8190410
+DESCRIPTION:Dozent/in: Fliess\, Hébert\, Mehner\nStatus: Pflicht\nAbteilun
+ g: Abteilung V - Produktion und Medienwirtschaft\nhttp://ecampus.hff-muc.d
+ e/campus/all/event.asp?objgguid=NEW&from=&gguid=0x7100D0CA6FA24725BB359D7E
+ F8190410
 END:VEVENT
 BEGIN:VEVENT
 UID:46c4b82122b2ae550edc@hff-kalender
@@ -191,9 +193,10 @@ DTSTART;TZID=Europe/Berlin:20261028T090000
 DTEND;TZID=Europe/Berlin:20261028T170000
 SUMMARY:PK I: Hüttenseminar
 LOCATION:Marstall am See
-DESCRIPTION:Dozent/in: Fliess\, Mehner\nStatus: Pflicht\nAbteilung: Abteilu
- ng V - Produktion und Medienwirtschaft\nhttp://ecampus.hff-muc.de/campus/a
- ll/event.asp?objgguid=NEW&from=&gguid=0x7100D0CA6FA24725BB359D7EF8190410
+DESCRIPTION:Dozent/in: Fliess\, Hébert\, Mehner\nStatus: Pflicht\nAbteilun
+ g: Abteilung V - Produktion und Medienwirtschaft\nhttp://ecampus.hff-muc.d
+ e/campus/all/event.asp?objgguid=NEW&from=&gguid=0x7100D0CA6FA24725BB359D7E
+ F8190410
 END:VEVENT
 BEGIN:VEVENT
 UID:26ff6e2abf84f11363d5@hff-kalender
