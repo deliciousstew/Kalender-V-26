@@ -230,10 +230,11 @@ DTSTART;TZID=Europe/Berlin:20261106T100000
 DTEND;TZID=Europe/Berlin:20261106T140000
 SUMMARY:Film 01 - Einführung Film 01
 LOCATION:E 05: Kino 2
-DESCRIPTION:Dozent/in: Brass\nStatus: Pflicht\nAbteilung: Abteilung VII - K
- amera\, Abteilung IV - Dokumentarfilm und Fernsehpublizistik\, Abteilung V
-  - Produktion und Medienwirtschaft\nhttp://ecampus.hff-muc.de/campus/all/e
- vent.asp?objgguid=NEW&from=&gguid=0x390EAB76389E445CA2307AF771E39334
+DESCRIPTION:Dozent/in: Brass\, Zitzer\nStatus: Pflicht\nAbteilung: Abteilun
+ g VII - Kamera\, Abteilung IV - Dokumentarfilm und Fernsehpublizistik\, Ab
+ teilung V - Produktion und Medienwirtschaft\nhttp://ecampus.hff-muc.de/cam
+ pus/all/event.asp?objgguid=NEW&from=&gguid=0x390EAB76389E445CA2307AF771E39
+ 334
 END:VEVENT
 BEGIN:VEVENT
 UID:1f84f51037964c0dfe92@hff-kalender
