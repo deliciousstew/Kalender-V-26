@@ -218,10 +218,10 @@ DTSTART;TZID=Europe/Berlin:20261105T100000
 DTEND;TZID=Europe/Berlin:20261105T170000
 SUMMARY:Film 01 - Ideenskizze und Exposé
 LOCATION:E 05: Kino 2
-DESCRIPTION:Dozent/in: Spaeth\nStatus: Pflicht\nAbteilung: Abteilung IV - D
- okumentarfilm und Fernsehpublizistik\, Abteilung V - Produktion und Medien
- wirtschaft\nhttp://ecampus.hff-muc.de/campus/all/event.asp?objgguid=NEW&fr
- om=&gguid=0x84A7B9C3692848F7A97210E123D83849
+DESCRIPTION:Dozent/in: Spaeth\, Wilke\, Artemeva\nStatus: Pflicht\nAbteilun
+ g: Abteilung IV - Dokumentarfilm und Fernsehpublizistik\, Abteilung V - Pr
+ oduktion und Medienwirtschaft\nhttp://ecampus.hff-muc.de/campus/all/event.
+ asp?objgguid=NEW&from=&gguid=0x84A7B9C3692848F7A97210E123D83849
 END:VEVENT
 BEGIN:VEVENT
 UID:022f951a8616cc375807@hff-kalender
