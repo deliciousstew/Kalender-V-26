@@ -136,9 +136,9 @@ DTSTART;TZID=Europe/Berlin:20261022T093000
 DTEND;TZID=Europe/Berlin:20261022T170000
 SUMMARY:PERSPEKTIVEN Impulse und Ideen für mehr Diversität
 LOCATION:Kino 1
-DESCRIPTION:Dozent/in: Friesewinkel\, Fuhrmann\, Turan\nStatus: Pflicht\nht
- tp://ecampus.hff-muc.de/campus/all/event.asp?objgguid=NEW&from=&gguid=0xA5
- 08A86A88DD4D4685E75527F743768C
+DESCRIPTION:Dozent/in: Luu\, Friesewinkel\, Fuhrmann\, Gavrilovic\, Turan\n
+ Status: Pflicht\nhttp://ecampus.hff-muc.de/campus/all/event.asp?objgguid=N
+ EW&from=&gguid=0xA508A86A88DD4D4685E75527F743768C
 END:VEVENT
 BEGIN:VEVENT
 UID:f94f32df0bc31be0a4ca@hff-kalender
@@ -147,9 +147,9 @@ DTSTART;TZID=Europe/Berlin:20261023T093000
 DTEND;TZID=Europe/Berlin:20261023T170000
 SUMMARY:PERSPEKTIVEN Impulse und Ideen für mehr Diversität
 LOCATION:Kino 1
-DESCRIPTION:Dozent/in: Friesewinkel\, Fuhrmann\, Turan\nStatus: Pflicht\nht
- tp://ecampus.hff-muc.de/campus/all/event.asp?objgguid=NEW&from=&gguid=0xA5
- 08A86A88DD4D4685E75527F743768C
+DESCRIPTION:Dozent/in: Luu\, Friesewinkel\, Fuhrmann\, Gavrilovic\, Turan\n
+ Status: Pflicht\nhttp://ecampus.hff-muc.de/campus/all/event.asp?objgguid=N
+ EW&from=&gguid=0xA508A86A88DD4D4685E75527F743768C
 END:VEVENT
 BEGIN:VEVENT
 UID:446e80ca48337291ed29@hff-kalender
@@ -806,6 +806,17 @@ DESCRIPTION:Dozent/in: Schorr\, Tzafrir\, Müller\nStatus: Pflicht\nAbteilu
  ?objgguid=NEW&from=&gguid=0x48DD370E784E44C58C623B23C205E34F
 END:VEVENT
 BEGIN:VEVENT
+UID:0545930e33fc281ccd1d@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20270119T173000
+DTEND;TZID=Europe/Berlin:20270119T193000
+SUMMARY:Sprechstunde Buchführung und Steuerrecht (mit Anmeldung)
+LOCATION:Zoom
+DESCRIPTION:Dozent/in: Wolf-Knott\nStatus: Optional\nAbteilung: Abteilung V
+  - Produktion und Medienwirtschaft\nhttp://ecampus.hff-muc.de/campus/all/e
+ vent.asp?objgguid=NEW&from=&gguid=0x75F4F778E07F4BEAAF4A61AB10F0B8AA
+END:VEVENT
+BEGIN:VEVENT
 UID:9ffd2b2888f7ebccff18@hff-kalender
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20270120T093000
@@ -828,17 +839,6 @@ LOCATION:Seminarraum 3\, Kino Blau
 DESCRIPTION:Dozent/in: Fliess\, Mehner\nStatus: Optional\nAbteilung: Abteil
  ung V - Produktion und Medienwirtschaft\nhttp://ecampus.hff-muc.de/campus/
  all/event.asp?objgguid=NEW&from=&gguid=0xE1C597A47E044AABBB24DB2E098212D6
-END:VEVENT
-BEGIN:VEVENT
-UID:f4b0b5110362e18d085e@hff-kalender
-DTSTAMP:20260101T000000Z
-DTSTART;TZID=Europe/Berlin:20270120T173000
-DTEND;TZID=Europe/Berlin:20270120T193000
-SUMMARY:Sprechstunde Buchführung und Steuerrecht (mit Anmeldung)
-LOCATION:Zoom
-DESCRIPTION:Dozent/in: Wolf-Knott\nStatus: Optional\nAbteilung: Abteilung V
-  - Produktion und Medienwirtschaft\nhttp://ecampus.hff-muc.de/campus/all/e
- vent.asp?objgguid=NEW&from=&gguid=0x75F4F778E07F4BEAAF4A61AB10F0B8AA
 END:VEVENT
 BEGIN:VEVENT
 UID:72a7637f66ca9bef2ea5@hff-kalender
