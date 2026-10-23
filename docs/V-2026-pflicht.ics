@@ -147,10 +147,10 @@ DTSTART;TZID=Europe/Berlin:20261026T090000
 DTEND;TZID=Europe/Berlin:20261026T170000
 SUMMARY:PK I: Hüttenseminar
 LOCATION:Marstall am See
-DESCRIPTION:Dozent/in: Fliess\, Hébert\, Mehner\nStatus: Pflicht\nAbteilun
- g: Abteilung V - Produktion und Medienwirtschaft\nhttp://ecampus.hff-muc.d
- e/campus/all/event.asp?objgguid=NEW&from=&gguid=0x7100D0CA6FA24725BB359D7E
- F8190410
+DESCRIPTION:Dozent/in: Fliess\, Hébert\, Wertz\, Mehner\, Zitzer\nStatus: 
+ Pflicht\nAbteilung: Abteilung V - Produktion und Medienwirtschaft\nhttp://
+ ecampus.hff-muc.de/campus/all/event.asp?objgguid=NEW&from=&gguid=0x7100D0C
+ A6FA24725BB359D7EF8190410
 END:VEVENT
 BEGIN:VEVENT
 UID:efcb91fc5918d13de210@hff-kalender
@@ -159,10 +159,10 @@ DTSTART;TZID=Europe/Berlin:20261027T090000
 DTEND;TZID=Europe/Berlin:20261027T170000
 SUMMARY:PK I: Hüttenseminar
 LOCATION:Marstall am See
-DESCRIPTION:Dozent/in: Fliess\, Hébert\, Mehner\nStatus: Pflicht\nAbteilun
- g: Abteilung V - Produktion und Medienwirtschaft\nhttp://ecampus.hff-muc.d
- e/campus/all/event.asp?objgguid=NEW&from=&gguid=0x7100D0CA6FA24725BB359D7E
- F8190410
+DESCRIPTION:Dozent/in: Fliess\, Hébert\, Wertz\, Mehner\, Zitzer\nStatus: 
+ Pflicht\nAbteilung: Abteilung V - Produktion und Medienwirtschaft\nhttp://
+ ecampus.hff-muc.de/campus/all/event.asp?objgguid=NEW&from=&gguid=0x7100D0C
+ A6FA24725BB359D7EF8190410
 END:VEVENT
 BEGIN:VEVENT
 UID:c15b1657c41e0ff7ad85@hff-kalender
@@ -171,10 +171,10 @@ DTSTART;TZID=Europe/Berlin:20261028T090000
 DTEND;TZID=Europe/Berlin:20261028T170000
 SUMMARY:PK I: Hüttenseminar
 LOCATION:Marstall am See
-DESCRIPTION:Dozent/in: Fliess\, Hébert\, Mehner\nStatus: Pflicht\nAbteilun
- g: Abteilung V - Produktion und Medienwirtschaft\nhttp://ecampus.hff-muc.d
- e/campus/all/event.asp?objgguid=NEW&from=&gguid=0x7100D0CA6FA24725BB359D7E
- F8190410
+DESCRIPTION:Dozent/in: Fliess\, Hébert\, Wertz\, Mehner\, Zitzer\nStatus: 
+ Pflicht\nAbteilung: Abteilung V - Produktion und Medienwirtschaft\nhttp://
+ ecampus.hff-muc.de/campus/all/event.asp?objgguid=NEW&from=&gguid=0x7100D0C
+ A6FA24725BB359D7EF8190410
 END:VEVENT
 BEGIN:VEVENT
 UID:26ff6e2abf84f11363d5@hff-kalender
