@@ -246,11 +246,11 @@ DESCRIPTION:Dozent/in: Spaeth\, Wilke\, Artemeva\nStatus: Pflicht\nAbteilun
  asp?objgguid=NEW&from=&gguid=0x84A7B9C3692848F7A97210E123D83849
 END:VEVENT
 BEGIN:VEVENT
-UID:022f951a8616cc375807@hff-kalender
+UID:d07034227c22520809f1@hff-kalender
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20261106T100000
 DTEND;TZID=Europe/Berlin:20261106T140000
-SUMMARY:Film 01 - Einführung Film 01
+SUMMARY:Film 01 - Einführung Schreibunbung und Film 01
 LOCATION:E 05: Kino 2
 DESCRIPTION:Dozent/in: Brass\, Zitzer\nStatus: Pflicht\nAbteilung: Abteilun
  g VII - Kamera\, Abteilung IV - Dokumentarfilm und Fernsehpublizistik\, Ab
@@ -467,6 +467,17 @@ LOCATION:E 01: AudimaxX
 DESCRIPTION:Dozent/in: Gotto\, Krützen\nStatus: Pflicht\nAbteilung: Abteil
  ung I - Medienwissenschaft\nhttp://ecampus.hff-muc.de/campus/all/event.asp
  ?objgguid=NEW&from=&gguid=0xD2BFED7DDE094BC38950854A495A69C5
+END:VEVENT
+BEGIN:VEVENT
+UID:d4566e7eea26b9c143e9@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261207T090000
+DTEND;TZID=Europe/Berlin:20261207T103000
+SUMMARY:Test zur Vorlesung Film- und Fernsehgeschichte III (1945–1960)
+LOCATION:2.01: Seminarraum 1\, 2.07: Seminarraum 3
+DESCRIPTION:Dozent/in: Wende\, Krützen\nStatus: Pflicht\nAbteilung: Abteil
+ ung I - Medienwissenschaft\nhttp://ecampus.hff-muc.de/campus/all/event.asp
+ ?objgguid=NEW&from=&gguid=0x79D8B620421045FE9941FB990A2B0F14
 END:VEVENT
 BEGIN:VEVENT
 UID:7920940272a4ca6f6926@hff-kalender
