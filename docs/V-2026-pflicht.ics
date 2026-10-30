@@ -125,9 +125,9 @@ DTSTART;TZID=Europe/Berlin:20261022T093000
 DTEND;TZID=Europe/Berlin:20261022T170000
 SUMMARY:PERSPEKTIVEN Impulse und Ideen für mehr Diversität
 LOCATION:Kino 1
-DESCRIPTION:Dozent/in: Luu\, Friesewinkel\, Fuhrmann\, Gavrilovic\, Turan\n
- Status: Pflicht\nhttp://ecampus.hff-muc.de/campus/all/event.asp?objgguid=N
- EW&from=&gguid=0xA508A86A88DD4D4685E75527F743768C
+DESCRIPTION:Dozent/in: Friesewinkel\, Fuhrmann\, Gavrilovic\, Turan\nStatus
+ : Pflicht\nhttp://ecampus.hff-muc.de/campus/all/event.asp?objgguid=NEW&fro
+ m=&gguid=0xA508A86A88DD4D4685E75527F743768C
 END:VEVENT
 BEGIN:VEVENT
 UID:f94f32df0bc31be0a4ca@hff-kalender
@@ -136,9 +136,9 @@ DTSTART;TZID=Europe/Berlin:20261023T093000
 DTEND;TZID=Europe/Berlin:20261023T170000
 SUMMARY:PERSPEKTIVEN Impulse und Ideen für mehr Diversität
 LOCATION:Kino 1
-DESCRIPTION:Dozent/in: Luu\, Friesewinkel\, Fuhrmann\, Gavrilovic\, Turan\n
- Status: Pflicht\nhttp://ecampus.hff-muc.de/campus/all/event.asp?objgguid=N
- EW&from=&gguid=0xA508A86A88DD4D4685E75527F743768C
+DESCRIPTION:Dozent/in: Friesewinkel\, Fuhrmann\, Gavrilovic\, Turan\nStatus
+ : Pflicht\nhttp://ecampus.hff-muc.de/campus/all/event.asp?objgguid=NEW&fro
+ m=&gguid=0xA508A86A88DD4D4685E75527F743768C
 END:VEVENT
 BEGIN:VEVENT
 UID:446e80ca48337291ed29@hff-kalender
@@ -498,6 +498,18 @@ DESCRIPTION:Dozent/in: Müller\nStatus: Pflicht\nAbteilung: Abteilung II -
  &gguid=0xFD56482CD2D64EAEBA39113F9376120F
 END:VEVENT
 BEGIN:VEVENT
+UID:bb3fccca0637ce45efcd@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261210T100000
+DTEND;TZID=Europe/Berlin:20261210T124500
+SUMMARY:Film-und Medientechnik I-2 im Grundlagenseminar Film-und Fernsehtec
+ hnik
+LOCATION:2.01: Seminarraum 1
+DESCRIPTION:Dozent/in: Sparenberg\nStatus: Pflicht\nAbteilung: Abteilung II
+  - Technik\nhttp://ecampus.hff-muc.de/campus/all/event.asp?objgguid=NEW&fr
+ om=&gguid=0x90EFAD4CCCE3420281339120732ED322
+END:VEVENT
+BEGIN:VEVENT
 UID:316fd0b5fc8c52325f63@hff-kalender
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20261210T133000
@@ -508,6 +520,18 @@ DESCRIPTION:Dozent/in: Johnston\, Sparenberg\, Kempel\, Müller\, Neumann\n
  Status: Pflicht\nAbteilung: Abteilung II - Technik\nhttp://ecampus.hff-muc
  .de/campus/all/event.asp?objgguid=NEW&from=&gguid=0xCD3E70AD516A4383A6A9BD
  B0DD348911
+END:VEVENT
+BEGIN:VEVENT
+UID:ea4bfa5dc6f50702c3c0@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261211T093000
+DTEND;TZID=Europe/Berlin:20261211T124500
+SUMMARY:Film-und Medientechnik I-3 (Lichtsetzung) im Grundlagenseminar Film
+ -und Fernsehtechnik
+LOCATION:TV 1 (E.28) und SR1 (2.01)
+DESCRIPTION:Dozent/in: Sparenberg\nStatus: Pflicht\nAbteilung: Abteilung II
+  - Technik\nhttp://ecampus.hff-muc.de/campus/all/event.asp?objgguid=NEW&fr
+ om=&gguid=0x57EFC034F4C846FB9653ACEBC5E3E702
 END:VEVENT
 BEGIN:VEVENT
 UID:eacac9fa3fab3bf0d328@hff-kalender
@@ -558,11 +582,11 @@ DESCRIPTION:Dozent/in: Johnston\, Sparenberg\, Kempel\, Lupfer\, Parisotto\
  &from=&gguid=0x443CA7C28C9B4FFABD63856AD556158B
 END:VEVENT
 BEGIN:VEVENT
-UID:129c9b9b0abb1b6bd476@hff-kalender
+UID:ace2fdac541906c93242@hff-kalender
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20261215T093000
 DTEND;TZID=Europe/Berlin:20261215T124500
-SUMMARY:Film-und Medientechnik (Set-Ton)  I-5 im Grundlagenseminar Film-und
+SUMMARY:Film-und Medientechnik  I-5 (Set-Ton) im Grundlagenseminar Film-und
   Fernsehtechnik
 LOCATION:E 04: Kino 1
 DESCRIPTION:Dozent/in: Mottl\nStatus: Pflicht\nAbteilung: Abteilung II - Te
@@ -596,6 +620,19 @@ DESCRIPTION:Dozent/in: Johnston\, Sparenberg\, Kempel\, Lupfer\, Parisotto\
  &from=&gguid=0x443CA7C28C9B4FFABD63856AD556158B
 END:VEVENT
 BEGIN:VEVENT
+UID:5d2a8f6a78e6d8a4e3b8@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261216T133000
+DTEND;TZID=Europe/Berlin:20261216T170000
+SUMMARY:Praxisübungen III (Film-Übung) im Grundlagenseminar Film-und Fern
+ sehtechnik
+LOCATION:TV2\,GRII(4.47)\, SR6 (4.28)\, GRV(4.51)\, GRVII(4.50)
+DESCRIPTION:Dozent/in: Johnston\, Sparenberg\, Kempel\, Müller\, Neumann\n
+ Status: Pflicht\nAbteilung: Abteilung II - Technik\nhttp://ecampus.hff-muc
+ .de/campus/all/event.asp?objgguid=NEW&from=&gguid=0x2C6E5AA2BBC04EF9AFC3F5
+ 10392CD71F
+END:VEVENT
+BEGIN:VEVENT
 UID:b80d15216787ffc7c91b@hff-kalender
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20261217T133000
@@ -619,6 +656,19 @@ LOCATION:E 05: Kino 2
 DESCRIPTION:Dozent/in: Schopper\, Rothe\, Müller\nStatus: Pflicht\nAbteilu
  ng: Abteilung II - Technik\nhttp://ecampus.hff-muc.de/campus/all/event.asp
  ?objgguid=NEW&from=&gguid=0x4716AE5EA0884A1CBC27FC4909ECCCBD
+END:VEVENT
+BEGIN:VEVENT
+UID:5d6d2be4b0cc8a4bcf28@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20261218T130000
+DTEND;TZID=Europe/Berlin:20261218T150000
+SUMMARY:Praxisübungen III (Film-Übung) im Grundlagenseminar Film-und Fern
+ sehtechnik
+LOCATION:TV2\,GRII(4.47)\, SR6 (4.28)\, GRV(4.51)\, GRVII(4.50)
+DESCRIPTION:Dozent/in: Johnston\, Sparenberg\, Kempel\, Müller\, Neumann\n
+ Status: Pflicht\nAbteilung: Abteilung II - Technik\nhttp://ecampus.hff-muc
+ .de/campus/all/event.asp?objgguid=NEW&from=&gguid=0x2C6E5AA2BBC04EF9AFC3F5
+ 10392CD71F
 END:VEVENT
 BEGIN:VEVENT
 UID:dcec46f11e5bdb330687@hff-kalender
@@ -689,6 +739,19 @@ LOCATION:2.01: Seminarraum 1
 DESCRIPTION:Dozent/in: Sparenberg\, Kempel\nStatus: Pflicht\nAbteilung: Abt
  eilung II - Technik\nhttp://ecampus.hff-muc.de/campus/all/event.asp?objggu
  id=NEW&from=&gguid=0xE25AB95D5F0646E1B2BAD7CB140424C1
+END:VEVENT
+BEGIN:VEVENT
+UID:661c4d5420dffc749fbe@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20270113T093000
+DTEND;TZID=Europe/Berlin:20270113T170000
+SUMMARY:SPEZI-Zeit Kamera: "Arbeitsschutz\, elektrische Stromversorgung" OD
+ ER/UND Tech-Talk KI+Innovationsforschung
+LOCATION:TV2\,GRII(4.47)\, SR6 (4.28)\, GRV(4.51)\, GRVII(4.50)
+DESCRIPTION:Dozent/in: Johnston\, Sparenberg\, Müller\, Neumann\nStatus: P
+ flicht\nAbteilung: Abteilung II - Technik\nhttp://ecampus.hff-muc.de/campu
+ s/all/event.asp?objgguid=NEW&from=&gguid=0x5951E1F1EACF4C39B2B032C9C55816A
+ 8
 END:VEVENT
 BEGIN:VEVENT
 UID:1036b84d805bddba3d57@hff-kalender
