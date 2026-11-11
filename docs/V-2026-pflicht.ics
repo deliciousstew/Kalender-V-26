@@ -430,12 +430,12 @@ DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20261207T140000
 DTEND;TZID=Europe/Berlin:20261207T170000
 SUMMARY:Film 01 - Vorstellung der Ideen für Teambildung
-LOCATION:E 05: Kino 2
-DESCRIPTION:Dozent/in: Zehr\, Brass\, Spaeth\nStatus: Pflicht\nAbteilung: A
- bteilung VII - Kamera\, Abteilung IV - Dokumentarfilm und Fernsehpublizist
- ik\, Abteilung V - Produktion und Medienwirtschaft\nhttp://ecampus.hff-muc
- .de/campus/all/event.asp?objgguid=NEW&from=&gguid=0x6985CF6177AC49DA953A5F
- A3D67B2D6C
+LOCATION:2.01: Seminarraum 1
+DESCRIPTION:Dozent/in: Zehr\, Brass\, Spaeth\, Wilke\, Liebheit\nStatus: Pf
+ licht\nAbteilung: Abteilung VII - Kamera\, Abteilung IV - Dokumentarfilm u
+ nd Fernsehpublizistik\, Abteilung V - Produktion und Medienwirtschaft\nhtt
+ p://ecampus.hff-muc.de/campus/all/event.asp?objgguid=NEW&from=&gguid=0x698
+ 5CF6177AC49DA953A5FA3D67B2D6C
 END:VEVENT
 BEGIN:VEVENT
 UID:0a0cc20fff1e05747675@hff-kalender
@@ -946,10 +946,10 @@ DTSTART;TZID=Europe/Berlin:20270210T140000
 DTEND;TZID=Europe/Berlin:20270210T170000
 SUMMARY:Film 01 - Produktionswirtschaft II
 LOCATION:2.14: Seminarraum 4
-DESCRIPTION:Dozent/in: Lührig\, Wöhrl\nStatus: Pflicht\nAbteilung: Abteil
- ung IV - Dokumentarfilm und Fernsehpublizistik\, Abteilung V - Produktion 
- und Medienwirtschaft\nhttp://ecampus.hff-muc.de/campus/all/event.asp?objgg
- uid=NEW&from=&gguid=0x85EF60B7528A40EF9E49927C7E6A3298
+DESCRIPTION:Dozent/in: Lührig\, Zeitler\, Wöhrl\nStatus: Pflicht\nAbteilu
+ ng: Abteilung IV - Dokumentarfilm und Fernsehpublizistik\, Abteilung V - P
+ roduktion und Medienwirtschaft\nhttp://ecampus.hff-muc.de/campus/all/event
+ .asp?objgguid=NEW&from=&gguid=0x85EF60B7528A40EF9E49927C7E6A3298
 END:VEVENT
 BEGIN:VEVENT
 UID:25d84db19fe00d7cc702@hff-kalender
