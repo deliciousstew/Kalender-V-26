@@ -927,6 +927,17 @@ DESCRIPTION:Dozent/in: Steierer\nStatus: Pflicht\nAbteilung: Abteilung V -
  t.asp?objgguid=NEW&from=&gguid=0xE44132F923A8486FA2BFA7A138394262
 END:VEVENT
 BEGIN:VEVENT
+UID:4c593a3a81d30bc40fc3@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20270204T093000
+DTEND;TZID=Europe/Berlin:20270204T123000
+SUMMARY:PK I: Produzieren an der HFF
+LOCATION:4.08: Seminarraum 5
+DESCRIPTION:Dozent/in: Zitzer\nStatus: Pflicht\nAbteilung: Abteilung V - Pr
+ oduktion und Medienwirtschaft\nhttp://ecampus.hff-muc.de/campus/all/event.
+ asp?objgguid=NEW&from=&gguid=0x5BC326D05E804EA0AA5B8D693D2F1A9D
+END:VEVENT
+BEGIN:VEVENT
 UID:f2222a1ae89a34623f7f@hff-kalender
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20270210T100000
