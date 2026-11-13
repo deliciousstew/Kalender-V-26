@@ -340,12 +340,12 @@ DTSTART;TZID=Europe/Berlin:20261120T100000
 DTEND;TZID=Europe/Berlin:20261120T150000
 SUMMARY:Film 01 - Auswertung der dokumentarischen Schreibübung
 LOCATION:SR 5\, SR 8\, SR 9\, SR 10\, GR I\, GR IV
-DESCRIPTION:Dozent/in: Fliess\, Zehr\, Brass\, Spaeth\, Wilke\, Liebheit\, 
- Wertz\nStatus: Pflicht\nAbteilung: Abteilung VII - Kamera\, Abteilung IV -
-  Dokumentarfilm und Fernsehpublizistik\, Abteilung V - Produktion und Medi
- enwirtschaft\, Bereich IV/1 - Fernsehjournalismus\nhttp://ecampus.hff-muc.
- de/campus/all/event.asp?objgguid=NEW&from=&gguid=0x65AAA069829448A2B15BCA9
- 0AA4D0FB4
+DESCRIPTION:Dozent/in: Fliess\, Zehr\, Spaeth\, Müller\, Moschüring\, Zin
+ k\, Wilke\, Liebheit\, Wertz\, Nicolaus\nStatus: Pflicht\nAbteilung: Abtei
+ lung VII - Kamera\, Abteilung IV - Dokumentarfilm und Fernsehpublizistik\,
+  Abteilung V - Produktion und Medienwirtschaft\, Bereich IV/1 - Fernsehjou
+ rnalismus\nhttp://ecampus.hff-muc.de/campus/all/event.asp?objgguid=NEW&fro
+ m=&gguid=0x65AAA069829448A2B15BCA90AA4D0FB4
 END:VEVENT
 BEGIN:VEVENT
 UID:cc433b9612ff68122547@hff-kalender
@@ -980,6 +980,18 @@ LOCATION:4.08: Seminarraum 5
 DESCRIPTION:Dozent/in: Brummer\, Zitzer\nStatus: Pflicht\nAbteilung: Abteil
  ung V - Produktion und Medienwirtschaft\nhttp://ecampus.hff-muc.de/campus/
  all/event.asp?objgguid=NEW&from=&gguid=0x2969539A2C8746F3A59EDEA2623D5899
+END:VEVENT
+BEGIN:VEVENT
+UID:8104eb62c20f1496f976@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20270128T170000
+DTEND;TZID=Europe/Berlin:20270128T210000
+SUMMARY:KSK - Vorstellung der Künstlersozialkasse
+LOCATION:E 05: Kino 2
+DESCRIPTION:Dozent/in: Janssen\, Brass\nStatus: Optional\nAbteilung: Abteil
+ ung IV - Dokumentarfilm und Fernsehpublizistik\nhttp://ecampus.hff-muc.de/
+ campus/all/event.asp?objgguid=NEW&from=&gguid=0x16E29CA03A8641C6BF806E95E5
+ 81ACE1
 END:VEVENT
 BEGIN:VEVENT
 UID:7cfd15b2da5a7d390765@hff-kalender
