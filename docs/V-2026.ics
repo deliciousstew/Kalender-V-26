@@ -631,8 +631,8 @@ DTEND;TZID=Europe/Berlin:20261214T173000
 SUMMARY:Praxisübungen (II) mit Ton\, Einweisung Sound Device im Grundlagen
  seminar Film-und Fernsehtechnik (Einteilung in Kleingruppen)
 LOCATION:TV2\,GRII(4.47)\, SR6 (4.28)\, GRV(4.51)\, GRVII(4.50)
-DESCRIPTION:Dozent/in: Johnston\, Sparenberg\, Kempel\, Lupfer\, Parisotto\
- , Kainz\, Müller\, Neumann\, Mottl\nStatus: Pflicht\nAbteilung: Abteilung
+DESCRIPTION:Dozent/in: Johnston\, Sparenberg\, Böhm\, Kempel\, Lupfer\, Pa
+ risotto\, Müller\, Neumann\, Mottl\nStatus: Pflicht\nAbteilung: Abteilung
   II - Technik\nhttp://ecampus.hff-muc.de/campus/all/event.asp?objgguid=NEW
  &from=&gguid=0x443CA7C28C9B4FFABD63856AD556158B
 END:VEVENT
@@ -656,8 +656,8 @@ DTEND;TZID=Europe/Berlin:20261215T173000
 SUMMARY:Praxisübungen (II) mit Ton\, Einweisung Sound Device im Grundlagen
  seminar Film-und Fernsehtechnik (Einteilung in Kleingruppen)
 LOCATION:TV2\,GRII(4.47)\, SR6 (4.28)\, GRV(4.51)\, GRVII(4.50)
-DESCRIPTION:Dozent/in: Johnston\, Sparenberg\, Kempel\, Lupfer\, Parisotto\
- , Kainz\, Müller\, Neumann\, Mottl\nStatus: Pflicht\nAbteilung: Abteilung
+DESCRIPTION:Dozent/in: Johnston\, Sparenberg\, Böhm\, Kempel\, Lupfer\, Pa
+ risotto\, Müller\, Neumann\, Mottl\nStatus: Pflicht\nAbteilung: Abteilung
   II - Technik\nhttp://ecampus.hff-muc.de/campus/all/event.asp?objgguid=NEW
  &from=&gguid=0x443CA7C28C9B4FFABD63856AD556158B
 END:VEVENT
@@ -669,8 +669,8 @@ DTEND;TZID=Europe/Berlin:20261216T124500
 SUMMARY:Praxisübungen (II) mit Ton\, Einweisung Sound Device im Grundlagen
  seminar Film-und Fernsehtechnik (Einteilung in Kleingruppen)
 LOCATION:TV2\,GRII(4.47)\, SR6 (4.28)\, GRV(4.51)\, GRVII(4.50)
-DESCRIPTION:Dozent/in: Johnston\, Sparenberg\, Kempel\, Lupfer\, Parisotto\
- , Kainz\, Müller\, Neumann\, Mottl\nStatus: Pflicht\nAbteilung: Abteilung
+DESCRIPTION:Dozent/in: Johnston\, Sparenberg\, Böhm\, Kempel\, Lupfer\, Pa
+ risotto\, Müller\, Neumann\, Mottl\nStatus: Pflicht\nAbteilung: Abteilung
   II - Technik\nhttp://ecampus.hff-muc.de/campus/all/event.asp?objgguid=NEW
  &from=&gguid=0x443CA7C28C9B4FFABD63856AD556158B
 END:VEVENT
@@ -855,6 +855,17 @@ DESCRIPTION:Dozent/in: Schorr\, Tzafrir\, Müller\nStatus: Pflicht\nAbteilu
  ?objgguid=NEW&from=&gguid=0x48DD370E784E44C58C623B23C205E34F
 END:VEVENT
 BEGIN:VEVENT
+UID:3b204cef469ce26df392@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20270118T100000
+DTEND;TZID=Europe/Berlin:20270118T163000
+SUMMARY:Üben an den Geräten im Grundlagenseminar Film-und Fernsehtechnik
+LOCATION:E 28: Fernsehstudio 1
+DESCRIPTION:Dozent/in: Dickhaut\nStatus: Optional\nAbteilung: Abteilung II 
+ - Technik\nhttp://ecampus.hff-muc.de/campus/all/event.asp?objgguid=NEW&fro
+ m=&gguid=0xEDB69A999D7B4D219802292E8ED2B33E
+END:VEVENT
+BEGIN:VEVENT
 UID:a20d3045614ae8190a88@hff-kalender
 DTSTAMP:20260101T000000Z
 DTSTART;TZID=Europe/Berlin:20270118T170000
@@ -878,6 +889,17 @@ LOCATION:3.22: Computer Schulungsraum\, 3.26: Gruppenschnittraum\, Multimed
 DESCRIPTION:Dozent/in: Schorr\, Tzafrir\, Müller\nStatus: Pflicht\nAbteilu
  ng: Abteilung II - Technik\nhttp://ecampus.hff-muc.de/campus/all/event.asp
  ?objgguid=NEW&from=&gguid=0x48DD370E784E44C58C623B23C205E34F
+END:VEVENT
+BEGIN:VEVENT
+UID:e7d36f172f9ea74e56ec@hff-kalender
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Europe/Berlin:20270119T100000
+DTEND;TZID=Europe/Berlin:20270119T163000
+SUMMARY:Üben an den Geräten im Grundlagenseminar Film-und Fernsehtechnik
+LOCATION:E 28: Fernsehstudio 1
+DESCRIPTION:Dozent/in: Dickhaut\nStatus: Optional\nAbteilung: Abteilung II 
+ - Technik\nhttp://ecampus.hff-muc.de/campus/all/event.asp?objgguid=NEW&fro
+ m=&gguid=0xEDB69A999D7B4D219802292E8ED2B33E
 END:VEVENT
 BEGIN:VEVENT
 UID:0545930e33fc281ccd1d@hff-kalender
